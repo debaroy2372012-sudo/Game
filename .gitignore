@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+*.apple-touch-icon
+*.zip
+*.audio.position.worklet
+*.worklet
+*.icon
+*.import
+*.js
+*.pck
+*.wasm
